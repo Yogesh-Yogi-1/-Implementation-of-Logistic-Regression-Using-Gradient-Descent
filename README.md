@@ -82,9 +82,15 @@ print(y_prednew)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
-
-
+![Screenshot 2024-10-16 210946](https://github.com/user-attachments/assets/d205a318-f104-4c6d-8b95-63af53ea66b3)
+![Screenshot 2024-10-16 211001](https://github.com/user-attachments/assets/3141e12e-f325-4bcc-a64e-850e1dc15e31)
+![Screenshot 2024-10-16 211015](https://github.com/user-attachments/assets/bce71534-9a32-4f87-bd8c-9824f99a9317)
+![Screenshot 2024-10-16 211026](https://github.com/user-attachments/assets/0844d002-4448-47a9-97c5-a39aa0d5191d)
+![Screenshot 2024-10-16 211043](https://github.com/user-attachments/assets/b43dd063-1de1-4463-89e9-a6353fb70e3d)
+![Screenshot 2024-10-16 211057](https://github.com/user-attachments/assets/7a1bd3f0-94ad-4e4c-b8cd-8582ce9e9dc8)
+![Screenshot 2024-10-16 211123](https://github.com/user-attachments/assets/97de55db-f714-49aa-ac1b-03334d40a243)
+![Screenshot 2024-10-16 211138](https://github.com/user-attachments/assets/c86f1aa7-2c94-4234-9337-9e74d05cdecd)
+![Screenshot 2024-10-16 211150](https://github.com/user-attachments/assets/f399e422-b60d-4a98-b659-0b7c575bbcd4)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
